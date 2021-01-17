@@ -1,0 +1,1 @@
+Dynamic core resource example creating two lambda functions with different environment variables. 
